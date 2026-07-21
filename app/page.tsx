@@ -18,7 +18,7 @@ export default function Home() {
       name: '2 coloured shirt',
       description: 'Timeless elegance in pure blue and white',
       price: '₦18,500',
-      image: '"C:\Users\ASUS\Downloads\product-1.png"',
+      image: 'c:\\Users\\ASUS\\Downloads\\product-1.png',
     },
       id: 2,
       name: 'Stone Grey Premium',
