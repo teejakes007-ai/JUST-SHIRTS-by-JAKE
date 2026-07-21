@@ -15,12 +15,11 @@ export default function Home() {
   const products = [
     {
       id: 1,
-      name: 'Classic Ivory Shirt',
-      description: 'Timeless elegance in pure white',
+      name: '2 coloured shirt',
+      description: 'Timeless elegance in pure blue and white',
       price: '₦18,500',
-      image: '/product-1.png',
+      image: '"C:\Users\ASUS\Downloads\product-1.png"',
     },
-    {
       id: 2,
       name: 'Stone Grey Premium',
       description: 'Sophisticated neutral tone',
