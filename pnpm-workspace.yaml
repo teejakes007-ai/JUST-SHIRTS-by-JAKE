@@ -1,3 +1,11 @@
+package:
+  - .
+
+overrides:
+  hono: 4.12.25
+
+  allowBuild: msw:true sharp:true
+
 allowBuilds:
   msw: set this to true or false
   sharp: set this to true or false
